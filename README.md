@@ -31,7 +31,7 @@ This is a **frontend clone** of the official [BMW India Website](http://127.0.0.
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live website](https://sumant-01.github.http://127.0.0.1:5501/CSS/tasks/BMW/BMW.html)
+🔗 [Click here to view the live website](http://127.0.0.1:5501/CSS/tasks/BMW/BMW.html)
 
 ---
 
